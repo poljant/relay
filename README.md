@@ -13,3 +13,5 @@ r1.setOff(); wyłącza przekaźnik
 r1.read(); czyta stan przekaźnika
 
 
+#
+
