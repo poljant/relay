@@ -1,4 +1,6 @@
 # relay
+devices relays
+
 biblioteka przekaźników
 
 Biblioteka dla sterowania przekaźnikami.
