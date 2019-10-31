@@ -9,7 +9,7 @@ Seting and control the relays.
 
 Relay r1;
 
-r1.begin([pinR], [inverted]); init reley [or set pin] [or set inverted]
+r1.begin([pinR], [inverted]); init relay [or set pin] [or set inverted]
 
 r1.setPin(pinR) set pin = pinR
 
