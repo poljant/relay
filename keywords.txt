@@ -12,10 +12,13 @@ Relay	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin 	KEYWORD2
-setOn	KEYWORD2
-setOff	KEYWORD2
-read	KEYWORD2
+begin 		KEYWORD2
+setOn		KEYWORD2
+setOff		KEYWORD2
+read		KEYWORD2
+setPin		KEYWORD2
+isOn		KEYWORD2
+inverted	KEYWORD
 
 #######################################
 # Constants (LITERAL1)
