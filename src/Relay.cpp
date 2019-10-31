@@ -57,10 +57,9 @@ bool Relay::isOn(void)
 void Relay::setPin(int p){
     pin = p;
 }
-bool Relay::inverted(bool r)
+void Relay::inverted(bool r)
 {
     inv= r;
-    return inv;
 }
 bool Relay::inverted(void){
     return inv;
