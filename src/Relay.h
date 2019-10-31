@@ -28,6 +28,6 @@ public:
     int read();
     bool isOn();
     bool inverted();
-    bool inverted(bool);
+    void inverted(bool);
 };
 #endif /* RELAY_H_ */
