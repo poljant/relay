@@ -36,7 +36,7 @@ void Relay::begin(int p ,bool r)
     pin = p;
     inv = r;
     pinMode(pin, OUTPUT);
-    digitalWrite(pin, inv ? HIGH : LOW;
+    digitalWrite(pin, inv ? HIGH : LOW);
 }
 void Relay::setOn(void)
 {
